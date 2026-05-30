@@ -1,6 +1,6 @@
 # Workshops
 
-A collection of DIY workshops following a "Workshop in a Box" methodology.
+A collection of DIY workshops following the "Workshop in a Box" methodology.
 
 ## What is Workshop in a Box?
 
