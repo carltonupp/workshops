@@ -18,4 +18,4 @@ The MVP should be able to demonstrate the following use cases:
 - Manage employees at your current organisation
 - Assign employees to specific points of contact at organisations
 - Allow an employee to track a communication against an organisation, either at org level or with a specific point of contact
-BONUS: Admin users can manage employees that have access, as well as their level of access (Viewer, Contributor, Manager, Admin)
+- BONUS: Admin users can manage employees that have access, as well as their level of access (Viewer, Contributor, Manager, Admin)
