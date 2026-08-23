@@ -14,6 +14,7 @@ Workshop in a Box is an open-source format for sharing focused workshops, enabli
 
 ## Available Workshops
 
-coming soon!
+- [Agentic Coding Basics](agentic-coding-basics/) – deliver a working CRM API in an hour using agentic tooling
+- [FastAPI Basics](fastapi-api-basics/) – build a task tracker API from first principles with Python, FastAPI and uv
 
 
